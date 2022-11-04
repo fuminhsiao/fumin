@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/fuminhsiao/fumin.git/static/css/main.f7488afe.css",
-    "main.js": "/fuminhsiao/fumin.git/static/js/main.b8304374.js",
-    "static/js/787.a2cb61a6.chunk.js": "/fuminhsiao/fumin.git/static/js/787.a2cb61a6.chunk.js",
-    "static/media/uMICH.png": "/fuminhsiao/fumin.git/static/media/uMICH.5b3c377d17e5a82e6dc6.png",
-    "static/media/audio.jpg": "/fuminhsiao/fumin.git/static/media/audio.0ae13529ccc183643d99.jpg",
-    "static/media/cft.png": "/fuminhsiao/fumin.git/static/media/cft.648e8a82b3d2b9bb3867.png",
-    "static/media/ntu.jpg": "/fuminhsiao/fumin.git/static/media/ntu.892a1ae125b796b5726a.jpg",
-    "static/media/logo-s.png": "/fuminhsiao/fumin.git/static/media/logo-s.4ff6b0572f3b9be789b3.png",
-    "static/media/helvetica-neu.ttf": "/fuminhsiao/fumin.git/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/fuminhsiao/fumin.git/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/fuminhsiao/fumin.git/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "static/media/logo.svg": "/fuminhsiao/fumin.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/fuminhsiao/fumin.git/index.html",
-    "main.f7488afe.css.map": "/fuminhsiao/fumin.git/static/css/main.f7488afe.css.map",
-    "main.b8304374.js.map": "/fuminhsiao/fumin.git/static/js/main.b8304374.js.map",
-    "787.a2cb61a6.chunk.js.map": "/fuminhsiao/fumin.git/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/fuminhsiao.io/hsiao/static/css/main.42b691e4.css",
+    "main.js": "/fuminhsiao.io/hsiao/static/js/main.fb18a940.js",
+    "static/js/787.a2cb61a6.chunk.js": "/fuminhsiao.io/hsiao/static/js/787.a2cb61a6.chunk.js",
+    "static/media/uMICH.png": "/fuminhsiao.io/hsiao/static/media/uMICH.5b3c377d17e5a82e6dc6.png",
+    "static/media/audio.jpg": "/fuminhsiao.io/hsiao/static/media/audio.0ae13529ccc183643d99.jpg",
+    "static/media/cft.png": "/fuminhsiao.io/hsiao/static/media/cft.648e8a82b3d2b9bb3867.png",
+    "static/media/ntu.jpg": "/fuminhsiao.io/hsiao/static/media/ntu.892a1ae125b796b5726a.jpg",
+    "static/media/logo-s.png": "/fuminhsiao.io/hsiao/static/media/logo-s.4ff6b0572f3b9be789b3.png",
+    "static/media/helvetica-neu.ttf": "/fuminhsiao.io/hsiao/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/fuminhsiao.io/hsiao/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/fuminhsiao.io/hsiao/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "static/media/logo.svg": "/fuminhsiao.io/hsiao/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fuminhsiao.io/hsiao/index.html",
+    "main.42b691e4.css.map": "/fuminhsiao.io/hsiao/static/css/main.42b691e4.css.map",
+    "main.fb18a940.js.map": "/fuminhsiao.io/hsiao/static/js/main.fb18a940.js.map",
+    "787.a2cb61a6.chunk.js.map": "/fuminhsiao.io/hsiao/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7488afe.css",
-    "static/js/main.b8304374.js"
+    "static/css/main.42b691e4.css",
+    "static/js/main.fb18a940.js"
   ]
 }
