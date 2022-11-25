@@ -1,0 +1,70 @@
+.nav-bar{
+    // background-color: black;
+    position: relative;
+    width: 100%;
+    // top: 50px;
+    z-index: 5;
+    // left: 20%;
+    text-align: center;
+
+    h2{
+        color: #8d8d8d;
+        margin-top: 0;
+        margin-bottom: 50px;
+        font-weight: 600;
+        font-size: 17px;
+        font-family: sans-serif;
+        letter-spacing: 3px;
+        animation: fadeIn 1s 1.8s backwards;
+        text-align: center;
+
+    }
+    span{
+        color: #000;
+        font-size: 53px;
+        font-family: 'Coolvetica';
+        font-weight: 400;
+        text-align: center;
+        line-height: 50px;
+        margin-top: 10px;
+        
+
+    }
+    nav{
+        // background-color: black;
+        margin: auto;
+        width:700px;
+        text-align: center;
+        border-bottom: 1px solid #000;
+        padding-bottom: 10px;
+
+
+        a{
+            position: relative;
+            font-size: 22px;
+            text-decoration: none;
+            color: #000;
+            left: 25px;
+            margin-right: 55px;
+            // z-index: 5;
+        }
+
+        a:hover{
+            color: #ffac06;
+        }
+
+        // .about-link{
+        //     position: absolute;
+        //     top: 0;
+        //     left: 50px;
+        // }
+
+        // .contact-link{
+        //     position: absolute;
+        //     top: 0;
+        //     left: 100px;
+        // }
+
+    }
+
+}
